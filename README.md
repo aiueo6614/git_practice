@@ -1,5 +1,2 @@
 # git_practice
-
-
-from branch2
-
+from branch1 second commit
