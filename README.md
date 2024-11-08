@@ -1,3 +1,3 @@
 # git_practice
 
-ate upd
+from branch1 second commit
